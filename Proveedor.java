@@ -1,9 +1,9 @@
-public class proveedor{
+public class Proveedor{
   private String idproveedor;
   private String direccionproveedor;
   private String coreeoproveedor;
 
-  public proveedor(String id, String direccion, String correo){
+  public Proveedor(String id, String direccion, String correo){
     this.idproveedor = id;
     this.direccionproveedor = direccion;
     this.coreeoproveedor = correo;
